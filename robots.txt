@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://exotishb.github.io/sitemap.html.gz
+Sitemap: https://exotishb.github.io/app/sitemap.html.gz
+Sitemap: https://exotishb.github.io/assets/sitemap.html.gz
+Sitemap: https://exotishb.github.io/css/sitemap.html.gz
+Sitemap: https://exotishb.github.io/data/sitemap.html.gz
+Sitemap: https://exotishb.github.io/includes/sitemap.html.gz
+Sitemap: https://exotishb.github.io/item/sitemap.html.gz
+Sitemap: https://exotishb.github.io/src/sitemap.html.gz
